@@ -975,3 +975,8 @@ const getData = () => {
 }
 
 Sqlite Browser  nos puede ayudar con los codigos SQL
+
+
+git branch -M main
+git remote add origin https://github.com/a-bacilio/datacollmobile.git
+git push -u origin main
